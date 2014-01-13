@@ -11,7 +11,9 @@
   },
   "author": "Patrick Steele-Idem <psteeleidem@ebay.com>",
   "maintainers": "Patrick Steele-Idem <psteeleidem@ebay.com>",
-  "dependencies": {},
+  "dependencies": {
+    "raptor-util": "0.1.0-SNAPSHOT"
+  },
   "devDependencies": {
     "mocha": "~1.15.1",
     "chai": "~1.8.1",
