@@ -1,9 +1,9 @@
 {
-    "predef": [  
+    "predef": [
     ],
 
-    "globals": { 
-        "define": true, 
+    "globals": {
+        "define": true,
         "require": true
     },
 
@@ -33,6 +33,7 @@
     "eqeqeq": false,
     "latedef": true,
     "unused": "vars",
+    "strict": false,
     
     /* Relaxing options: */
     "eqnull": true
